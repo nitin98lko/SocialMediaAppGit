@@ -7,6 +7,7 @@ namespace SocialMediaAppGit
         static void Main(string[] args)
         {
             Console.WriteLine("hello app!");
+            Console.WriteLine("google login");
         }
     }
 }
